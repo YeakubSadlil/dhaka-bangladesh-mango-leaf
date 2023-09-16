@@ -1,9 +1,4 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
-
-
-# [Chapter Challenge Name]
-
+# [Omdena Bangladesh Chapter: Real-Time Automated Mango Leaf Disease Detection in Bangladesh Using CNNs]
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
