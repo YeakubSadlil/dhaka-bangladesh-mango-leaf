@@ -1,4 +1,31 @@
-# [Omdena Bangladesh Chapter: Real-Time Automated Mango Leaf Disease Detection in Bangladesh Using CNNs]
+# Omdena Bangladesh Chapter: Real-Time Automated Mango Leaf Disease Detection in Bangladesh Using CNNs
+
+## Table of Contents
+* [Introduction](#Introduction)
+* [Problem Statement](#Problem-Statement)
+* [Project Goals](#Project-Goals)
+* [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
+* [Bug / Feature Request](#Bug--Feature-Request)
+* [Authors](#Authors)
+
+## Introduction
+* Agriculture plays a vital role in Bangladesh’s economy, contributing 11.5% to the GDP. Fruits comprise 10% of national income.
+* Bangladesh ranks 7th in mango production globally and it is known as the king of fruits.
+* Bangladesh’s annual mango production is around 1.2 million metric tons from over 100,000 acres of land.
+* However, despite its potential, mango production in the country faces challenges, including pest attacks and diseases caused by bacteria, fungi, viruses, and insects.
+* These diseases lead to a substantial annual yield loss of around 30%, impacting farmers’ livelihoods and national production.
+
+## Problem Statement
+* Bacterial and fungal diseases are major constraints for mango production, causing around 30% yield loss annually.
+* The absence of real-time, automated systems for early detection and classification of mango leaf diseases hampers efforts to mitigate crop losses.
+* Currently, farmers face delayed diagnoses which reduces productivity and causes financial losses.
+* This project aims to address this problem by developing a cutting-edge computer vision-based model that provides instant in-field detection and classification of mango leaf diseases, empowering farmers with timely information to reduce losses and enhance their income
+
+## Project Goals
+* The project goals are:
+    * Collect a comprehensive dataset of mango leaf images encompassing multiple bacterial and fungal diseases, ensuring representation across various regions.
+    * Train and optimize Convolutional Neural Network (CNN) models to accurately detect and classify mango leaf diseases using the collected dataset.
+    * Develop an intuitive user interface with trained models for real-time mango disease screening by farmers.
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
