@@ -1,8 +1,8 @@
-# chapter-project-repository-template
+# Mango Leaf Disease Detection in Bangladesh
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# Mango Leaf Disease Detection 
 
 
 ## Contribution Guidelines
